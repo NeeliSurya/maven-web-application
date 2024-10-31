@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Suray Tech Releases Nexus Repository</name>
-	      <url>http://13.235.24.21:8081/suryatech/repository/citibank-release/</url>
+	      <url>http://172.31.32.129:8081/suryatech/repository/citibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Surya Tech Snapshot Nexus Repository </name>
-	      <url>http://13.235.24.21:8081/suryatech/repository/citibank-snapshot/</url>
+	      <url>http://172.31.32.129:8081/suryatech/repository/citibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
